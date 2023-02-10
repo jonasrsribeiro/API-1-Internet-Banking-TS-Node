@@ -1,0 +1,18 @@
+{
+  "name": "sirius-bank-node-typescript",
+  "version": "1.0.0",
+  "description": "Rebuildando o projeto do API Fatec 2022.2 de Python e Flask para Typescript e Node",
+  "main": "index.js",
+  "repository": "https://github.com/jonasrsribeiro/API-1-Internet-Banking-TS-Node",
+  "author": "Jonas Ribeiro",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.9.5"
+  }
+}
